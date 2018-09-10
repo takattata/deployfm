@@ -18,7 +18,7 @@ exclude:
 google_analytics:
 hashtag: deployfm
 itunes_podcast_url:
-keywords: deployfm, takasy
+keywords: deployfm, takasy, podcast
 language: ja
 markdown: kramdown
 permalink: /episode/:title
