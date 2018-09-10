@@ -1,0 +1,29 @@
+actors:
+  takasy:
+    image_url: /images/actors/takasy.png
+    name: takasy
+    url: https://twitter.com/takattata
+author: takasy
+description: 知り合った人たちの今までやこれからを聞いていくpodcast
+description_long: エンジニアのtakasyがゲストと話していくpodcastです。
+email: 
+exclude:
+  - docker
+  - docker-compose.yml
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.txt
+  - README.md
+  - vendor
+google_analytics:
+hashtag: deployfm
+itunes_podcast_url:
+keywords: deployfm, takasy
+language: ja
+markdown: kramdown
+permalink: /episode/:title
+sass:
+  sass_dir: css
+timezone: Asia/Tokyo
+title: deploy.fm
+url: http://deployfm.github.io
