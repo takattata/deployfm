@@ -5,7 +5,7 @@ actors:
     url: https://twitter.com/takattata
 author: takasy
 description: 知り合った人たちの今までやこれからを聞いていくpodcast
-description_long: アプリエンジニアをしているtakasyがゲストと話していくpodcast
+description_long: アプリエンジニアをしているtakasyがゲストと話していくpodcastです。なにかありましたら<a href=https://twitter.com/deployfm>@deployfm</a>にメンションください。
 email: 
 exclude:
   - docker
