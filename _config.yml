@@ -8,8 +8,8 @@ actors:
     name: tomoya0x00
     url: https://twitter.com/tomoya0x00
 author: takasy
-description: 知り合った人たちの今までやこれからを聞いていくpodcast
-description_long: アプリエンジニアをしているtakasyがゲストと話していくpodcastです。なにかありましたら<a href=https://twitter.com/deployfm>@deployfm</a>にメンションください。
+description: 知り合ったエンジニアたちの今までやこれからを聞いていくpodcast
+description_long: アプリエンジニアをしているtakasyがゲストのエンジニア人生をお聞きしていくpodcastです。なにかありましたら<a href=https://twitter.com/deployfm>@deployfm</a>にメンションください。
 email: 
 exclude:
   - docker
@@ -22,7 +22,7 @@ exclude:
 google_analytics: UA-126251433-1
 hashtag: deployfm
 itunes_podcast_url:
-keywords: deployfm, takasy
+keywords: deployfm
 language: ja
 markdown: kramdown
 permalink: /episode/:title
