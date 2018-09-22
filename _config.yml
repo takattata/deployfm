@@ -9,7 +9,7 @@ actors:
     url: https://twitter.com/tomoya0x00
 author: takasy
 description: 知り合ったエンジニアたちの今までやこれからを聞いていくpodcast
-description_long: アプリエンジニアをしているtakasyがゲストのエンジニア人生をお聞きしていくpodcastです。なにかありましたら<a href=https://twitter.com/deployfm>@deployfm</a>にメンションください。
+description_long: アプリエンジニアをしているtakasyがゲストのエンジニア人生をお聞きしていくpodcastです。ご意見ご要望、出演希望などありましたら<a href=https://twitter.com/deploy_fm>@deploy_fm</a>にメンションください。
 email: 
 exclude:
   - docker
