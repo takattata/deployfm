@@ -3,6 +3,10 @@ actors:
     image_url: /images/actors/takasy.png
     name: takasy
     url: https://twitter.com/takattata
+  tomoya0x00:
+    image_url: /images/actors/tomoya0x00.jpg
+    name: tomoya0x00
+    url: https://twitter.com/tomoya0x00
 author: takasy
 description: 知り合った人たちの今までやこれからを聞いていくpodcast
 description_long: アプリエンジニアをしているtakasyがゲストと話していくpodcastです。なにかありましたら<a href=https://twitter.com/deployfm>@deployfm</a>にメンションください。
@@ -15,7 +19,7 @@ exclude:
   - LICENSE.txt
   - README.md
   - vendor
-google_analytics:
+google_analytics: UA-126251433-1
 hashtag: deployfm
 itunes_podcast_url:
 keywords: deployfm, takasy
@@ -26,4 +30,4 @@ sass:
   sass_dir: css
 timezone: Asia/Tokyo
 title: deploy.fm
-url: http://deployfm.github.io
+url: https://takattata.github.io/deployfm/
