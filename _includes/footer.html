@@ -7,7 +7,7 @@
             {{ site.title }} とは
           </h1>
           <div class="footer-sections-element-description">
-            {{ site.title }} は、{{ site.description_long }}です。
+            {{ site.title }} は、{{ site.description_long }}
           </div>
         </section>
         <section class="column-small-4 footer-sections-element">
@@ -33,17 +33,17 @@
           <ul>
             {% if site.itunes_podcast_url %}
               <li>
-                <a href="{{ site.itunes_podcast_url }}" target="_blank">iTunesで購読</a>
+                <a href="{{ site.itunes_podcast_url }}" target="_blank"><i class="fa fa-apple"></i> iTunesで購読</a>
               </li>
             {% endif %}
             <li>
-              <a href="http://subscribeonandroid.com/{{ site.github.url | remove: "https://" | remove: "http://" }}/feed.xml" target="_blank">Androidで購読</a>
+              <a href="http://subscribeonandroid.com/{{ site.github.url | remove: "https://" | remove: "http://" }}/feed.xml" target="_blank"><i class="fa fa-android"></i> Androidで購読</a>
             </li>
             <li>
-              <a href="https://push.dog/subscribe?url={{ site.github.url }}/feed.xml" target="_blank">Pushdogで購読</a>
+              <a href="https://push.dog/subscribe?url={{ site.github.url }}/feed.xml" target="_blank"><i class="fa fa-bell"></i> Pushdogで購読</a>
             </li>
             <li>
-              <a href="{{ site.github.url }}/feed.xml" target="_blank">RSSで購読</a>
+              <a href="{{ site.github.url }}/feed.xml" target="_blank"><i class="fa fa-rss"></i> RSSで購読</a>
             </li>
           </ul>
         </section>
