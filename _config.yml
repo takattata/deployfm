@@ -7,8 +7,12 @@ actors:
     image_url: /images/actors/tomoya0x00.jpg
     name: tomoya0x00
     url: https://twitter.com/tomoya0x00
+  nkano_t:
+    image_url: /images/actors/nkano_t.jpg
+    name: nkano_t
+    url: https://twitter.com/nkano_t
 author: takasy
-description: 知り合ったエンジニアたちの今までやこれからを聞いていくpodcast
+description: 知り合ったソフトウェアエンジニアたちの今までやこれからを聞いていくpodcast
 description_long: アプリエンジニアをしているtakasyがゲストのエンジニア人生をお聞きしていくpodcastです。ご意見ご要望、出演希望などありましたら<a href=https://twitter.com/deploy_fm>@deploy_fm</a>にメンションください。
 email: 
 exclude:
