@@ -29,6 +29,7 @@ actors:
     url: https://twitter.com/ymnd
   yanzm:
     image_url: /images/actors/yanzm.jpg
+    name: yanzm
     url: https://twitter.com/yanzm
 author: takasy
 description: 知り合ったソフトウェアエンジニアたちの今までやこれからを聞いていくpodcast
