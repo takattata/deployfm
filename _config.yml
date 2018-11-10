@@ -31,6 +31,10 @@ actors:
     image_url: /images/actors/yanzm.jpg
     name: yanzm
     url: https://twitter.com/yanzm
+  3s_hv:
+    image_url: /images/actors/3s_hv.jpg
+    name: 3s_hv
+    url: https://twitter.com/3s_hv
 author: takasy
 description: 知り合ったソフトウェアエンジニアたちの今までやこれからを聞いていくpodcast
 description_long: アプリエンジニアをしているtakasyがゲストのエンジニアになった経緯などをお聞きしていくpodcastです。ご支援下さる方は<a href=https://www.patreon.com/deploy_fm>Patreon</a>や<a href=https://twitter.com/deploy_fm/status/1046396967956361223>Kyash</a>もよろしくお願いします！
